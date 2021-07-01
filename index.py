@@ -1,3 +1,6 @@
+#needed
+#pip3 install pafy
+#pip3 install youtube_dl
 import pafy
 import sys
 import os
